@@ -18,6 +18,6 @@ The **Growth Mindset App** is a simple web application designed to help users cu
 
 ### 🖥️ 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/MirSA356/growth-mindset
 cd Growth-Mindset-App
 # growth-mindset
